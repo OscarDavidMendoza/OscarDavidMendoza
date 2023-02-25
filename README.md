@@ -60,7 +60,7 @@
 <p align="center">
   <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=OscarDavidMendoza&show_icons=true&line_height=21&theme=react" alt="Oscar's Github Stats" />
   <img width="360" height="155" align="center" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarDavidMendoza&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=35&layout=compact" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarDavidMendoza&layout=compact" />
      <br/>
      <br/>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarDavidMendoza"/>
