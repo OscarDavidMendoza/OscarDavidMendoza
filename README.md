@@ -9,7 +9,7 @@
 
 <!--About Me -->
 <p align='center'>
-  I am a Tech Lead Support Engineer and Undergrad Student pursuing CSE. A tech Enthusiast who is exploring 👨‍💻 Web Development and the ☁️ Cloud, and is passionate about learning and working with tech. I love delivering deep-level quality tech support and analysis.
+  I am a Application Support Manager and Undergrad Student pursuing CSE. A tech Enthusiast who is exploring 👨‍💻 Web Development and the ☁️ Cloud, and is passionate about learning and working with tech. I love delivering deep-level quality tech support and analysis.
 </p>
 
 <br/>
@@ -19,14 +19,12 @@
 
 - 🔭 I’m currently working on my professional development by building small web apps.
 - 🌱 I’m currently Focused On:
-  1. Harvard's CS50
-  2. Full Stack Web Development with Microsoft's LaunchX by Innovaccion Virtual Full Stack Bootcamp. (Special thanks to [@FernandaOchoa][FernandaOchoa] and her whole team for providing us with this magnificent opportunity and resources)
-  3. Cloud Technologies:
+  1. Cloud Guru
+  2. Cloud Technologies:
      1. <img src='https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black&' style='border-radius:3px'/>
      2. <img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' style='border-radius:3px'/>
      3. <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' style='border-radius:3px'/>
      4. <img src='https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' style='border-radius:3px'/>
-  4. Blockchain Technology 
 - 👯 I’m looking to collaborate on any web based project that will help me build up experience.
 - 🤔 I’m looking for help with any cloud technology.
 - 💬 Ask me about anything! If I don't know about the subject I'll research enough to have a good chat about it.
@@ -71,7 +69,3 @@
 -->
 </p>
 
-
-
-
-[FernandaOchoa]: https://github.com/FernandaOchoa
